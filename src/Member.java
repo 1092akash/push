@@ -44,6 +44,9 @@
             obj1.print_salary();
             obj2.print_salary();
         }
+        public void show(){
+            System.out.println("Hello");
+        }
     }
 
 
